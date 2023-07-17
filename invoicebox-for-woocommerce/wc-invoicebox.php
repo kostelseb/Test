@@ -324,7 +324,7 @@ function woocommerce_invoicebox()
 				"itransfer_order_description"	=> $itransfer_description,
 				"itransfer_sign"		=> $itransfer_sign,
 				"itransfer_testmode"		=> ( $this->testmode == 'yes' ? 1 : 0 )
-			); // 
+			); // ывфаоваывыфджрлывалдж
 
 
 			$i = 1;
